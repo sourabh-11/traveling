@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* .diplay-bottomleft{
+    bottom: 10%;
+    width: 70%;
+} */
+.h2 b {
+    border-top: 50px;
+}
+
+.both-container{
+    display: flex;
+  
+}
+.left-container{
+    justify-content: center;
+    align-items: center;
+}
